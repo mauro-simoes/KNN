@@ -6,6 +6,7 @@ Le but de ce programme est d'appliquer l'algorithme des k plus proches voisins s
 Ce jeu de données Iris connu aussi sous le nom de Iris de Fisher est un jeu de données présenté en 1936 par Ronald Fisher dans son papier "The use of multiple measurements in taxonomic problems".Le jeu de données comprend 50 échantillons de chacune des trois espèces d’iris (Iris setosa, Iris virginica et Iris versicolor). Quatre caractéristiques ont été mesurées à partir de chaque échantillon : la longueur et la largeur des sépales et des pétales, en centimètres. Sur la base de la combinaison de ces quatre variables, Fisher a élaboré un modèle d’analyse permettant de distinguer les espèces les unes des autres.
 Pour ce faire j'ai téléchargé ces données au format csv : iris_data_set.csv
 Ce jeu de données est composé de 150 entrées, pour chaque entrée il y a:
+
 — la longueur des sépales (en cm), première valeur : sepal_length;
 — la largeur des sépales (en cm), deuxième valeur : sepal_width;;
 — la longueur des pétales (en cm), troisième valeur : petal_length;
